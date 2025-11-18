@@ -1,8 +1,6 @@
 # discord-BardBot
 디스코드 바드봇
 
-GDSC 세션에서 실습했던 디스코드 바드 챗봇을 개선/수정하였다.
-
 공식은 아니지만 [bard-api](https://github.com/dsdanielpark/Bard-API)레포를 참고했다.
 
 ### api 설치
